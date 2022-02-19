@@ -1,6 +1,1 @@
-# Symptom monitoring app 
-
-## functionalitites implemented:
-- Heart Rate Monitor 
-- Respiration Monitor 
-- DB which stores the above along with commom cold symptoms rating
+This Android Application calculates Heart Rate per minute, respiratory rate per minute and stores the symptoms with their respective severity in the database. 
